@@ -1,0 +1,96 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.logo {
+	display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+.ispis {
+	font-family: Verdana;
+	font-size: 11px;
+	text-align: center;
+	margin-top: 15px;
+	letter-spacing: 0.2px;
+
+}
+.ispis a {
+	color: #009;
+	text-decoration: none;
+	padding-left: 1px;
+	padding-right: 1px;
+	border-bottom: 1px dotted black;
+}
+.ispis a:hover {
+	text-decoration: underline;
+}
+form {
+	display: block;
+}
+.search {
+	width: 388px;
+	font-family: arial;
+	margin-left: 488px;
+	height: 20px;
+	margin-top: 10px;
+}
+.searchdesno {
+	font-size: 9px;
+	font-family: verdana;
+	padding: 0 15px;
+	line-height: 20px;
+}
+.searchdesno a, a:visited {
+	color: #009;
+	text-decoration: none;
+	border-bottom: 1px dotted black;
+}
+.checkovi {
+	text-align: center;
+	font-family: verdana;
+	font-size: 12px;
+	margin-top: 12px;
+}
+.dugmici {
+	margin-top: 12px;
+	margin-left: 580px;
+}
+.dugmici button {
+	padding: 1px 6px 1px 6px;
+}
+.download {
+	text-align: center;
+	margin-top: 12px;
+	font-family: verdana;
+}
+.download a, a:visited {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 13px;
+	color: #009;
+}
+.ispis2 {
+	margin-top: 25px;
+	letter-spacing: normal;
+}
+.bitcoin {
+	text-align: center;
+	margin-top: 32px;
+}
+.bitcoin a, a:visited {
+	text-decoration: none;
+	color: #009;
+	font-size: 11px;
+	font-family: verdana;
+}
+.bitcoin a:hover {
+	text-decoration: underline;
+}
+.rss, .kopimi {
+	display: block;
+    margin: 0 auto;
+	width: 20px;
+	margin-top: 12px;
+}
+
